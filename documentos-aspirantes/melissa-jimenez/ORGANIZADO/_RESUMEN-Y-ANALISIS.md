@@ -22,10 +22,21 @@
 | 04 | Título Profesional — Abogada | U. Cooperativa de Colombia (Popayán) | 2015 |
 | 05 | Maestría — Magíster en Derecho | U. Santiago de Cali | 2018 |
 
-## 3. Certificaciones laborales
-| # | Entidad | Cargo | Periodo | ¿Funciones? |
-|---|---------|-------|---------|:-----------:|
-| 06 | Alcaldía de Santiago de Cali (Sec. Bienestar Social) | Abogada — atención a víctimas del conflicto | 2021–2025 | ✅ SÍ |
+## 3. Certificaciones laborales — Alcaldía de Santiago de Cali (Sec. Bienestar Social)
+> El certificado oficial relacionaba **10 contratos**; se **separó cada contrato en su propio archivo** (06 a 06.9), y a cada uno se le anexó la página de firma + estampillas de ley para que quede como certificación válida e independiente. Todos como Abogada/Profesional en atención a víctimas del conflicto, **con funciones detalladas**.
+
+| # | Contrato | Año | ¿Funciones? |
+|---|----------|-----|:-----------:|
+| 06 | 0366-2021 | 2021 | ✅ SÍ |
+| 06.1 | 1265-2021 | 2021 | ✅ SÍ |
+| 06.2 | 0298-2022 | 2022 | ✅ SÍ |
+| 06.3 | 1066-2022 | 2022 | ✅ SÍ |
+| 06.4 | 0376-2023 | 2023 | ✅ SÍ |
+| 06.5 | 1351-2023 | 2023 | ✅ SÍ |
+| 06.6 | 2017-2023 | 2023 | ✅ SÍ |
+| 06.7 | 1247-2024 | 2024 | ✅ SÍ |
+| 06.8 | 1587-2025 | 2025 | ✅ SÍ |
+| 06.9 | 2121-2025 | 2025 | ✅ SÍ |
 
 ## 4. Tarjeta profesional
 | # | Documento | Detalle |
